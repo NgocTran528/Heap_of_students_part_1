@@ -42,7 +42,7 @@ direction TB
 
     Address --o Student
     Date --o Student
-
+```
 
 ## Algorithms
 
